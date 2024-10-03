@@ -1,0 +1,18 @@
+# ninja log v5
+1	286	7383481315605313	untitled_autogen/timestamp	a06cf72e9d4254af
+1	286	7383481315605313	untitled_autogen/mocs_compilation.cpp	a06cf72e9d4254af
+1	286	7383481315605313	F:/Qt code/chap02/untitled/build/Desktop_Qt_6_2_0_MinGW_64_bit-Debug/untitled_autogen/timestamp	a06cf72e9d4254af
+1	286	7383481315605313	F:/Qt code/chap02/untitled/build/Desktop_Qt_6_2_0_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	a06cf72e9d4254af
+287	384	7383481317185330	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	820108678b7c1a95
+1	212	7383481779515824	untitled_autogen/timestamp	a06cf72e9d4254af
+1	212	7383481779515824	untitled_autogen/mocs_compilation.cpp	a06cf72e9d4254af
+1	212	7383481779515824	F:/Qt code/chap02/untitled/build/Desktop_Qt_6_2_0_MinGW_64_bit-Debug/untitled_autogen/timestamp	a06cf72e9d4254af
+1	212	7383481779515824	F:/Qt code/chap02/untitled/build/Desktop_Qt_6_2_0_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	a06cf72e9d4254af
+223	2247	7383481799867336	CMakeFiles/untitled.dir/main.cpp.obj	a19c4501afdf3de2
+2260	2413	7383481801426661	untitled.exe	1cf5f9d750a4fd96
+5	214	7383482918499972	untitled_autogen/timestamp	a06cf72e9d4254af
+5	214	7383482918499972	untitled_autogen/mocs_compilation.cpp	a06cf72e9d4254af
+5	214	7383482918499972	F:/Qt code/chap02/untitled/build/Desktop_Qt_6_2_0_MinGW_64_bit-Debug/untitled_autogen/timestamp	a06cf72e9d4254af
+5	214	7383482918499972	F:/Qt code/chap02/untitled/build/Desktop_Qt_6_2_0_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	a06cf72e9d4254af
+215	1834	7383482934734510	CMakeFiles/untitled.dir/main.cpp.obj	a19c4501afdf3de2
+1835	1959	7383482935944455	untitled.exe	1cf5f9d750a4fd96

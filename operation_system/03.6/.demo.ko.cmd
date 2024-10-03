@@ -1,0 +1,1 @@
+savedcmd_/home/chenguanxian/project/learn/operation_system/03.6/demo.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/chenguanxian/project/learn/operation_system/03.6/demo.ko /home/chenguanxian/project/learn/operation_system/03.6/demo.o /home/chenguanxian/project/learn/operation_system/03.6/demo.mod.o

@@ -1,0 +1,1 @@
+savedcmd_/home/chenguanxian/project/learn/operation_system/03.6/modules.order := {   echo /home/chenguanxian/project/learn/operation_system/03.6/demo.o; :; } > /home/chenguanxian/project/learn/operation_system/03.6/modules.order

@@ -1,0 +1,14 @@
+# ninja log v5
+4	637	7383347573448713	sampe2_4_autogen/timestamp	6c1f45d052f713fd
+4	637	7383347573448713	sampe2_4_autogen/mocs_compilation.cpp	6c1f45d052f713fd
+4	637	7383347573448713	F:/Qt code/chap02/sampe2_4/build/Desktop_Qt_6_2_0_MinGW_64_bit-Debug/sampe2_4_autogen/timestamp	6c1f45d052f713fd
+4	637	7383347573448713	F:/Qt code/chap02/sampe2_4/build/Desktop_Qt_6_2_0_MinGW_64_bit-Debug/sampe2_4_autogen/mocs_compilation.cpp	6c1f45d052f713fd
+638	3007	7383347597669181	CMakeFiles/sampe2_4.dir/main.cpp.obj	58fb64b1a83f47bd
+664	3574	7383347603877073	CMakeFiles/sampe2_4.dir/dialog.cpp.obj	1defb73e3d33b677
+654	3585	7383347604009505	CMakeFiles/sampe2_4.dir/F_/Qt_code/chap02/sample2_2/dialog.cpp.obj	5256a5af1e35b98b
+7	263	7383352144784177	sampe2_4_autogen/timestamp	6c1f45d052f713fd
+7	263	7383352144784177	sampe2_4_autogen/mocs_compilation.cpp	6c1f45d052f713fd
+7	263	7383352144784177	F:/Qt code/chap02/sampe2_4/build/Desktop_Qt_6_2_0_MinGW_64_bit-Debug/sampe2_4_autogen/timestamp	6c1f45d052f713fd
+7	263	7383352144784177	F:/Qt code/chap02/sampe2_4/build/Desktop_Qt_6_2_0_MinGW_64_bit-Debug/sampe2_4_autogen/mocs_compilation.cpp	6c1f45d052f713fd
+295	3011	7383352172265925	CMakeFiles/sampe2_4.dir/dialog.cpp.obj	1defb73e3d33b677
+285	3012	7383352172265925	CMakeFiles/sampe2_4.dir/F_/Qt_code/chap02/sample2_2/dialog.cpp.obj	5256a5af1e35b98b

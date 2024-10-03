@@ -1,0 +1,1 @@
+savedcmd_/home/chenguanxian/project/learn/operation_system/03.6/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/chenguanxian/project/learn/operation_system/03.6/Module.symvers -T /home/chenguanxian/project/learn/operation_system/03.6/modules.order -i Module.symvers -e 

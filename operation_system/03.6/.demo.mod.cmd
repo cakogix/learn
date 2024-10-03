@@ -1,0 +1,1 @@
+savedcmd_/home/chenguanxian/project/learn/operation_system/03.6/demo.mod := printf '%s\n'   demo.o | awk '!x[$$0]++ { print("/home/chenguanxian/project/learn/operation_system/03.6/"$$0) }' > /home/chenguanxian/project/learn/operation_system/03.6/demo.mod
