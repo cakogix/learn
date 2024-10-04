@@ -11,6 +11,16 @@ using namespace std;
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        
+        int slowIndex=0;
+        int newSize=nums.size();
+        for(int fastIndex=1;fastIndex<nums.size();fastIndex++){
+            if(nums[slowIndex]==nums[fastIndex]){
+                newSize--;
+                continue;
+            }
+            slowIndex++;
+            nums[slowIndex]=nums[fastIndex];
+        }
+        return newSize;
     }
 };
