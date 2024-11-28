@@ -1,0 +1,1 @@
+savedcmd_/home/cgx/project/learn/operation_system/实验7/device_drive/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/cgx/project/learn/operation_system/实验7/device_drive/Module.symvers -T /home/cgx/project/learn/operation_system/实验7/device_drive/modules.order -i Module.symvers -e 

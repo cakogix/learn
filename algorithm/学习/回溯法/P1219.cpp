@@ -17,7 +17,7 @@ using namespace std;
 
 int backTrace(int t){
     if(t>8){
-
+        
     }
     else{
 

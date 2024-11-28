@@ -1,0 +1,1 @@
+savedcmd_/home/cgx/project/learn/operation_system/6.23/device_drive.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/cgx/project/learn/operation_system/6.23/device_drive.ko /home/cgx/project/learn/operation_system/6.23/device_drive.o /home/cgx/project/learn/operation_system/6.23/device_drive.mod.o

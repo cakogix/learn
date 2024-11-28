@@ -1,0 +1,1 @@
+savedcmd_/home/cgx/project/learn/operation_system/实验7/device_drive/device_drive.mod := printf '%s\n'   device_drive.o | awk '!x[$$0]++ { print("/home/cgx/project/learn/operation_system/实验7/device_drive/"$$0) }' > /home/cgx/project/learn/operation_system/实验7/device_drive/device_drive.mod
